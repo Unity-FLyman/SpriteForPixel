@@ -1,2 +1,4 @@
 # SpriteForPixel
-Shader_Pixel
+像素
+干扰
+色散
